@@ -1,0 +1,6 @@
+gradio
+vaderSentiment
+pandas
+matplotlib
+nltk
+plotly
